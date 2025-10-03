@@ -1,0 +1,30 @@
+# Node/Next
+node_modules/
+.next/
+.next-turbo/
+out/
+**/.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vercel/
+.env*
+
+# Playwright
+playwright-report/
+blob-report/
+trace.zip
+
+# Screenshots output
+public/screenshots/
+screenshots/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
